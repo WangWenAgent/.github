@@ -1,15 +1,14 @@
 # 项目简介更新
 
 # 技术栈/工具
-UI设计：https://mastergo.com/
-UI设计：https://js.design/
-MacOS/ios UI设计：https://js.design/
-科学上网：https://flzt.top/user/register?code=ZCPO
-内网穿透技术：https://github.com/fatedier/frp
-前端开发技术：https://zh.uniapp.dcloud.io/
-后端开发技术：flask，django，gin，beego等
-云服务器/域名/商标注册：阿里云
-ppt工具：https://github.com/BMPixel/moffee
+1. UI设计：https://js.design/
+2. MacOS/ios UI设计：https://js.design/
+3. 科学上网：https://flzt.top/user/register?code=ZCPO
+4. 内网穿透技术：https://github.com/fatedier/frp
+5. 前端开发技术：Vue
+6. 后端开发技术：flask，django，springboot, gin等
+7. 云服务器/域名/商标注册：阿里云
+8. ppt工具：https://github.com/BMPixel/moffee
 
 ## 一、项目概述
 
