@@ -1,12 +1,11 @@
 # 技术栈/工具
-1. UI设计：https://js.design/
-2. MacOS/ios UI设计：https://js.design/
-3. 科学上网：https://flzt.top/user/register?code=ZCPO
-4. 内网穿透技术：https://github.com/fatedier/frp
-5. 前端开发技术：Vue
-6. 后端开发技术：flask，django，springboot, gin等
-7. 云服务器/域名/商标注册：阿里云
-8. ppt工具：https://github.com/BMPixel/moffee
+1. UI设计：[https://js.design/](https://mastergo.com/files/home)
+2. 科学上网：https://flzt.top/user/register?code=ZCPO
+3. 内网穿透技术：https://github.com/fatedier/frp
+4. 前端开发技术：Vue
+5. 后端开发技术：flask，django，springboot, gin等
+6. 云服务器/域名/商标注册：阿里云\金山云
+7. ppt工具：https://github.com/BMPixel/moffee
 
 # 项目简介更新
 ## 一、项目概述
